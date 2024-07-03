@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780518526073",
+    "project_id": "hoosierhelper-fd31e",
+    "storage_bucket": "hoosierhelper-fd31e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780518526073:android:f24d29a75f0a59ff8e18a8",
+        "android_client_info": {
+          "package_name": "com.example.hoosierhelper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMf0YS_EpNib0GmJHZEk_AP5EVgAio0Z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
